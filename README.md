@@ -1,6 +1,7 @@
 # color-cpp: a c/c++ semantic highlighing plugin for vim8
 
-  :exclamation:**I forked this from [minrui-hust/color-cpp.vim](https://github.com/minrui-hust/color-cpp.vim), and make some changes make it work on my situation.**
+:exclamation: **I forked this from [minrui-hust/color-cpp.vim](https://github.com/minrui-hust/color-cpp.vim), and made some changes make it work on my situation.**
+
   Using the same config file `.ycm_extra_conf.py` with `YouCompleteMe`,
   accurate highlighting is available for c/c++ variables, keywords, functions,
   classes and so on.
